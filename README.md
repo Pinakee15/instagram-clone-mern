@@ -1,1 +1,1 @@
-# instagram-clone-mern-stack
+# flipkart-clone-mern-stack
